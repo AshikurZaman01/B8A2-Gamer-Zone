@@ -34,6 +34,16 @@
         order: 0;
     }
     /* Banner Section end*/
+
+    /* Gamer Section */
+    .gamer{
+        flex-direction: column;
+    }
+    .gamer-right{
+        text-align: center;
+    }
+    
+    /* Gamer Section end*/
 }
 /* -------------------- */
 /* -------------------- */
@@ -56,4 +66,14 @@
         text-align: center;
     }
    /* Banner Section end*/
+
+   /* Gamer Section */
+   .gamer{
+    flex-direction: column;
+}
+.gamer-right{
+    text-align: center;
+}
+
+/* Gamer Section end*/
 }
